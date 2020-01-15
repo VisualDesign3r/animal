@@ -3,12 +3,23 @@
 }
 
 h1 {
-    color: black;
-    font-size: 100px;
-    text-align: center;
-    text-align: center;
+  /* Box-model */
+  padding: 20px 0;
+
+  /* Positioning */
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+
+  /* Typography */
+  color: #eee;
+  text-align: center;
+
+  /* Visual */
+  background: #333;
 }
+
 img {
     width: 900px;
-    margin: auto;
+    margin: 0;
 }
