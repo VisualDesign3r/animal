@@ -19,7 +19,11 @@ h1 {
   background: #333;
 }
 
-img {
-    width: 900px;
-    margin: 0;
+
+
+.cat img {
+    margin: auto;
+    position: relative;
+    width: 80%;
+    display: block;
 }
